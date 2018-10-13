@@ -3,6 +3,10 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     background-color: aqua;
     color: green;
+=======
+    color: darkred;
+>>>>>>> header
 }
